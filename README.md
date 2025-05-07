@@ -109,16 +109,16 @@ These constants define the behavior and restrictions of the mob catcher system i
 
 
 // System language: Use "en" for English or "es" for Spanish.
-const LANGUAGE = "es";
+- ```const LANGUAGE = "es";```
 
 // ID of the custom item catcher. Make sure it matches the registered item.
-const CATCHER_ID = "multiversemc:net";
+- ```const CATCHER_ID = "multiversemc:net";```
 
 // Max number of mobs that can be caught per catcher.
-const MAX_MOBS = 10;
+- ```const MAX_MOBS = 10;```
 
 // Max health allowed per captured mob.
-const MAX_HEALTH = 250;
+- ```const MAX_HEALTH = 250;```
 
 // List of entities that are blocked and cannot be captured.
 const BLOCKED_MOBS = [ 
@@ -127,7 +127,7 @@ const BLOCKED_MOBS = [
   'minecraft:warden',
   'minecraft:wither',
   'minecraft:player'
-];
+]; 
 
 
 ---
