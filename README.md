@@ -21,7 +21,7 @@ The **Catch ’Em All** addon is a **Minecraft Bedrock** addon that introduces a
 
 ## **What Does Catch ’Em All Do?**
 
-With the **Catcher**, you can capture almost any mob (excluding bosses and players), store up to **10 mobs**, and release them later using an intuitive form-based UI. It works in both English and Spanish and includes support for **custom named mobs**, **durability limits**, and **blocked mobs/blocks** to preserve gameplay balance.
+With the **Catcher**, you can capture almost any mob (excluding bosses and players), store up to **10 mobs**, and release them later using an intuitive form-based UI. It works in both English and Spanish and includes support for **custom named mobs**, **durability limits**, and **blocked mobs** to preserve gameplay balance.
 
 ---
 
@@ -34,7 +34,7 @@ With the **Catcher**, you can capture almost any mob (excluding bosses and playe
 - ✅ **Durability-based** system — more powerful mobs cost more to store.
 - ✅ **Multilingual support**: English & Spanish with in-game language switch.
 - ✅ Prevents abuse via a list of **blocked mobs** and **blocked blocks**.
-- ✅ Supports **custom mobs** from other addons. These appear with a **default Dev icon**, while vanilla mobs show a grass icon.
+- ✅ Supports **custom mobs** from other addons. These appear with a **default Dev icon**, while vanilla mobs show a **Minecraft icon**.
 
 ---
 
