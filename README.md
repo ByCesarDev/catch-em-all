@@ -121,13 +121,7 @@ These constants define the behavior and restrictions of the mob catcher system i
 - ```const MAX_HEALTH = 250;```
 
 // List of entities that are blocked and cannot be captured.
-const BLOCKED_MOBS = [ 
-  'minecraft:armor_stand',
-  'minecraft:ender_dragon',
-  'minecraft:warden',
-  'minecraft:wither',
-  'minecraft:player'
-]; 
+- ```const BLOCKED_MOBS = [ 'minecraft:armor_stand', 'minecraft:ender_dragon', 'minecraft:warden', 'minecraft:wither'  'minecraft:player' ];```
 
 
 ---
